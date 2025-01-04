@@ -1,0 +1,17 @@
+Procedural
+Object Oriented
+
+Before creae anything, first create specification
+
+Specification ======== class
+
+	1. Information about that thing === Property
+	2. Activity of that thing ==== Function/method
+
+object 
+key, value
+variable 
+operator]
+statement
+array
+composer dump-autoload
