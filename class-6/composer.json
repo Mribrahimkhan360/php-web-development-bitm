@@ -1,0 +1,14 @@
+{
+  "name": "calss-6/class",
+  "type": "project",
+  "description": "This is simple project",
+  "keywords": [],
+  "license": "MIT",
+  "require": {},
+  "require-dev": {},
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  }
+}
