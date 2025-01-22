@@ -1,0 +1,14 @@
+{
+  "name": "class-9-raw-php/class-9-raw-php",
+  "type": "project",
+  "description": "this simple project",
+  "keywords": [],
+  "license": "",
+  "require": {},
+  "require-dev": {},
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  }
+}

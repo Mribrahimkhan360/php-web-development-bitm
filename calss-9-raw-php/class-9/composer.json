@@ -1,0 +1,14 @@
+{
+  "name": "class-8/class-8",
+  "type": "project",
+  "description": "this simple project",
+  "keywords": [],
+  "license": "",
+  "require": {},
+  "require-dev": {},
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  }
+}
